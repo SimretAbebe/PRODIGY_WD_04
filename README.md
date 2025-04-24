@@ -14,5 +14,5 @@ This is a simple and stylish weather web application that allows users to check 
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 - **OpenWeatherMap API**
